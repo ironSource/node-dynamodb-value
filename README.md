@@ -1,4 +1,5 @@
-# dynamodb-value (WIP)
+# dynamodb-value (WIP) [![Build Status](https://secure.travis-ci.org/ironSource/node-dynamodb-value.png?branch=master)](http://travis-ci.org/ironSource/node-dynamodb-value)
+
 Convert javascript object into dynamodb schema and back.
 
 ```javascript
