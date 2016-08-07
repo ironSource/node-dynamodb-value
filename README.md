@@ -24,3 +24,5 @@ This module does not support data types that are not native to javascript
     DynamoDBValue.toJavascript(ddbObject) // deeply equal jsObj
     DynamoDBValue.toDDB(jsObj) // deeply equal ddbObject
 ```
+
+[MIT](http://opensource.org/licenses/MIT) © yaniv kessler
