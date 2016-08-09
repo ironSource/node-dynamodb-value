@@ -1,4 +1,4 @@
-# dynamodb-value (WIP) [![Build Status](https://secure.travis-ci.org/ironSource/node-dynamodb-value.png?branch=master)](http://travis-ci.org/ironSource/node-dynamodb-value)
+# dynamodb-value [![Build Status](https://secure.travis-ci.org/ironSource/node-dynamodb-value.png?branch=master)](http://travis-ci.org/ironSource/node-dynamodb-value)
 
 Convert javascript object into dynamodb schema and back. This is a simplified version of a more complete solution: [official sdk from aws](https://github.com/awslabs/dynamodb-document-js-sdk)
 
@@ -25,4 +25,4 @@ This module does not support data types that are not native to javascript
     DynamoDBValue.toDDB(jsObj) // deeply equal ddbObject
 ```
 
-[MIT](http://opensource.org/licenses/MIT) © yaniv kessler
+[MIT](http://opensource.org/licenses/MIT) © ironSource
